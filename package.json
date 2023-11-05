@@ -1,0 +1,22 @@
+{
+  "name": "discord.js_tutorial",
+  "version": "1.0.0",
+  "description": "discord.js bot tutorial",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ukong0324/discord.js_tutorial.git"
+  },
+  "author": "Youbin Choi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ukong0324/discord.js_tutorial/issues"
+  },
+  "homepage": "https://github.com/Ukong0324/discord.js_tutorial#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
